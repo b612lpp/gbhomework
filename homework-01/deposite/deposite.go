@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	var percent, deposit float64
 	fmt.Println("Input deposit value")
 	fmt.Scan(&deposit)
