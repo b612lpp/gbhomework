@@ -1,3 +1,1 @@
-Hello World
-added second string
-
+third string
